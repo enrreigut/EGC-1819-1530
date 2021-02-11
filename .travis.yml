@@ -16,3 +16,4 @@ install:
 script:
   - cd decide
   - python ./manage.py test --keepdb --with-xunit
+
